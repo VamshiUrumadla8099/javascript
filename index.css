@@ -1,0 +1,10 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+#btn:hover{
+    width: 100%;
+}
+.text{
+    text-align: left;
+}
